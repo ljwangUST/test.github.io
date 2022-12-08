@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open projects on BIASlab</title>
+    <link>https://ljwangust.github.io/open-projects/</link>
+    <description>Recent content in Open projects on BIASlab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; BIASlab, 2022 </copyright>
+    <lastBuildDate>Fri, 11 Mar 2022 13:00:00 +0200</lastBuildDate><atom:link href="https://ljwangust.github.io/open-projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MSc project: Acoustic source separation for hearables.</title>
+      <link>https://ljwangust.github.io/open-projects/msc-cocktail-party/</link>
+      <pubDate>Fri, 11 Mar 2022 13:00:00 +0200</pubDate>
+      
+      <guid>https://ljwangust.github.io/open-projects/msc-cocktail-party/</guid>
+      <description>You are challenged to design an agent that learns to solve the cocktail party problem through on-the-spot interactions with a (human) listener. The cocktail party problem refers to the issue of not being able to understand your conversation partner in the presence of many simultaneously competing voices (Fig.1).
+Sound signals from multiple conversations mix at a cocktail party. The learning protocol is displayed in Fig.2. A listener wears earbuds that are capable to process audio signals in real-time (like hearing aids).</description>
+    </item>
+    
+    <item>
+      <title>MSc project: Active inference for SpotMicro locomotion.</title>
+      <link>https://ljwangust.github.io/open-projects/msc-spotmicro-locomotion/</link>
+      <pubDate>Thu, 24 Aug 2017 15:50:58 +0200</pubDate>
+      
+      <guid>https://ljwangust.github.io/open-projects/msc-spotmicro-locomotion/</guid>
+      <description>The goal is to develop an intelligent autonomous system (agent) for a SpotMicro quadruped robot (see Figure 1). The agent must learn to walk: it will not be given an accurate model of its legs&amp;rsquo; kinematics but will have to gradually build a locomotion model from interaction with its environment. You will use Active Inference (AIF), a probabilistic machine learning framework from the computational neuroscience community, to design and train the agent.</description>
+    </item>
+    
+    <item>
+      <title>MSc project: Parallel reactive computing for probabilistic programs.</title>
+      <link>https://ljwangust.github.io/open-projects/msc-parallel-reactive-computing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ljwangust.github.io/open-projects/msc-parallel-reactive-computing/</guid>
+      <description>In this project you are challenged to setup factor graph-based agents that operate simultaneously on multiple CPU cores. You will investigate the feasibility of splitting a factor graph model into multiple parts and how to run message passing-based inference in parallel using multiple CPU cores (see Figure 1). Since graph models can become quite large (e.g., millions of nodes) and data may arrive at different graph locations at different time scales, it is practically important to run these kinds of models in parallel.</description>
+    </item>
+    
+  </channel>
+</rss>
